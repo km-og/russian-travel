@@ -7,9 +7,9 @@
   line-height: 1.2;
 }
 
-.header__lang-link:focus {
+/* .header__lang-link:focus {
   text-decoration-line: underline;
-}
+} */
 
 @media screen and (max-width: 767px) {
   .header__lang-link {
