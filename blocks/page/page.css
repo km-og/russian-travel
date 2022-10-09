@@ -1,0 +1,26 @@
+.page {
+  min-width: 1280px;
+  background-color: #2a2c2f;
+  color: #ffffff;
+  font-family: inter;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (max-width: 1279px) {
+  .page {
+    min-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .page {
+    min-width: 768px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .page {
+    min-width: 320px;
+  }
+}
