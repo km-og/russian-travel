@@ -10,3 +10,5 @@ https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mob
 
 Ссылка на сайт:
 https://km-og.github.io/russian-travel/
+
+В ближайшее время с помощью расширения Perfect Pixel планирую поправить отступы и размеры, чтобы сайт полностью соответствовал макетам на всех разрешениях.
